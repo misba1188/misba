@@ -20,7 +20,36 @@ while count<=100:
          print ("yess..pu the ladder")
     elif count==25:
          count=4
-         print ("shit not again...down the ladder")
+         print ("shit not again...down the ladderfrom random import randint
+    elif count==38
+         print("dam...down the ladder",count)
+    elif count==40:
+    	 count=68
+    	 print("yuppe...up the ladder",count)
+    elif count==52:
+    	 count=81
+    	 print("finally...up the ladder",count)
+    elif count==65:
+    	 count=46
+    	 print("noo...down the ladder",count)
+    elif count==76:
+    	 count=97
+    	 print("wow..up the ladder",count)
+    elif count==89:
+         count=70
+         print("sadd...down the ladder",count)
+    elif count==93:
+         count=64
+         print(":(...down the ladder",count)	 
+
+
+
+
+
+
+
+
+
 
 
 
